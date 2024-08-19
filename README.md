@@ -4,7 +4,6 @@
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  height=250 width=350 align="right">
  
 - Casting spells with 0's and 1's 😉👨‍💻
-- 🎓 I am a 4th year Engineering Student pursuing Information Technology
 - 💖 I love **javascript**
 - Currently working on my  **NextJS Skills 💫**
 - Exploring **Open Source!!!**
